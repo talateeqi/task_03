@@ -31,7 +31,7 @@ def restaurant_detail(request):
     	'my_object': {
 
     	'restaurant_name' : 'arabica',
-    	'food_type' : 'yummy stuff',
+    	'food_type' : 'yummy food',
 
     }
     }
